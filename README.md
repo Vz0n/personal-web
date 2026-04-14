@@ -1,5 +1,5 @@
-# Portal website
+# Legacy Portal website
 
-This is just my portal page for https://vzon.moe, there's no more interesting stuff in here.
+This was my old portal page for https://vzon.moe. Now i'm using a new web made in Astro.
 
 Licensed under [GPLv3](/LICENSE).
